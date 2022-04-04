@@ -4,7 +4,7 @@ public class BalancoTrimestral{
         double gastoAbril = 1212.00; //Valor do salário Mínimo
 
         System.out.printf("Valor do salário Mínimo: %.2f R$",gastoAbril," R$");
-        System.out.printf("\nValor do salário Mínimo multiplicado por 10: %.2f reais", (gastoAbril * 10)," reais  ");
+        System.out.printf("\nValor do salário Mínimo multiplicado por 10: %.2f reais\n", (gastoAbril * 10)," reais  ");
         
     }
 
